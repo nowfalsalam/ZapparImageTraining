@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/nowfalsalam/ZapparImageTraining#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "@zappar/imagetraining": "^1.0.4",
+    "multer": "^1.3.1",
+    "express-pino-logger": "^6.0.0"
+
   }
 }
